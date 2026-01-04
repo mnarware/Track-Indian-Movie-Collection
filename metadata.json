@@ -1,0 +1,5 @@
+{
+  "name": "BollyTrack - Indian Cinema Box Office Explorer",
+  "description": "An interactive dashboard tracking currently running Bollywood movies, their theatrical status, and worldwide box office collections using real-time Google Search grounding.",
+  "requestFramePermissions": []
+}
